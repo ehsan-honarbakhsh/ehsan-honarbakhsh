@@ -1,4 +1,4 @@
-Hi, I'm # Ehsan Honarbakhsh 👋
+Hi, I'm Ehsan Honarbakhsh 👋
 
 I'm a passionate Software Engineer and Data Scientist with a knack for building intelligent systems and scalable web applications. I love designing algorithms, diving into data, and crafting solutions that make an impact.
 
