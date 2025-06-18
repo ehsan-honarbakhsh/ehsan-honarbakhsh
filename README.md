@@ -15,7 +15,7 @@ I'm a passionate Software Engineer and Data Scientist with a knack for building 
 🗄️ Proficient in SQL, with expertise in MySQL and PostgreSQL
 
 
-📫 [Connect with me on LinkedIn :](https://www.linkedin.com/in/ehsan-honarbakhsh-bb3205173/)
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ehsan-honarbakhsh-bb3205173/)
 
 
 
