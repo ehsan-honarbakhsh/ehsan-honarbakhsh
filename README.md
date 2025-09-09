@@ -46,4 +46,4 @@ Explore my GitHub repositories to see my work in action, including projects in m
 
 ---
 
-_“The best way to predict the future is to create it.”_
+_“If you never try , you will never know , what you're worth”_ "Chris Martin"
