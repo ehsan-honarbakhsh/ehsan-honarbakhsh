@@ -8,30 +8,29 @@
 
 Hello! I'm Ehsan Honarbakhsh, a passionate **Software Engineer** and **Data Scientist** with a strong focus on creating intelligent, scalable, and impactful solutions. I thrive on designing innovative algorithms, extracting insights from data, and building robust systems that solve real-world problems. With a blend of technical expertise and creative problem-solving, I aim to push the boundaries of technology in machine learning, data engineering, and web development.
 
-- 💡 **Specializations**: Machine Learning, Deep Learning, Algorithm Design, Data Engineering, and Web Development
-- 🌟 **Mission**: To craft efficient, scalable, and intelligent systems that drive meaningful outcomes
-- 😄 **Fun Fact**: I'm a coffee aficionado and fitness enthusiast, always chasing the perfect brew and a great workout!
+- **Specialisations**: Web Development, Algorithm Design, Machine Learning, Deep Learning and Data Engineering.
+- **Fun Fact**: I'm a coffee aficionado and fitness enthusiast, always chasing the perfect brew and a great workout!
 
 ## Expertise
 
 ### Technical Skills
 
-- **Programming Languages**: Python, R, SQL, C++
-- **Frameworks & Tools**: Django, FastAPI, Apache Spark, Apache Kafka, Apache Flink, Apache Airflow
-- **Databases**: MySQL, PostgreSQL
+- **Programming Languages**: Python, R, SQL
+- **Frameworks & Tools**: Django, FastAPI, LangChain, LanGraph, Celery
+- **Databases**: PostgreSQL
 - **Domains**:
-  - Machine Learning & Deep Learning
-  - Algorithm Design
-  - Data Engineering & Real-time Data Processing
   - Web Development & Microservices Architecture
+  - Algorithm Design
+  - Machine Learning & Deep Learning
+  - Data Engineering & Real-time Data Processing
   - Statistical Analysis
 
 ### Key Strengths
 
-- Developing scalable web applications with Django and FastAPI
-- Building real-time data pipelines using Apache Spark, Kafka, and Flink
+- Developing scalable web applications with FastAPI and Django
+- Building real-time data pipelines 
 - Designing and implementing machine learning and deep learning models
-- Optimizing data workflows with Apache Airflow
+- Optimising data workflows 
 - Proficient in database management and complex SQL queries
 
 ## Connect with Me
