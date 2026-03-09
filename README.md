@@ -16,7 +16,7 @@ Hello! I'm Ehsan Honarbakhsh, a passionate **Software Engineer** and **Data Scie
 ### Technical Skills
 
 - **Programming Languages**: Python, R, SQL
-- **Frameworks & Tools**: Django, FastAPI, LangChain, LanGraph, Celery
+- **Frameworks & Tools**: Django, FastAPI, LangChain, LangGraph, Celery
 - **Databases**: PostgreSQL
 - **Domains**:
   - Web Development & Microservices Architecture
