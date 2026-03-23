@@ -43,6 +43,4 @@ I'm always excited to collaborate, discuss innovative ideas, or explore new oppo
 
 Explore my GitHub repositories to see my work in action, including projects in machine learning, data engineering, and web development. I'm passionate about open-source contributions and welcome opportunities to collaborate on impactful projects.
 
----
 
-_“If you never try , you will never know , what you're worth”_ "Chris Martin"
